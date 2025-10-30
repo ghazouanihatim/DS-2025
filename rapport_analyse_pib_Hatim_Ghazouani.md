@@ -1,5 +1,6 @@
 # Rapport d'Analyse Approfondie du PIB
 Hatim Ghazouani
+![Hatim Ghazouani](Hatim Ghazouani.png)
 ## Comparaison Internationale et Tendances Économiques
 
 ---
@@ -606,3 +607,4 @@ for i, (bar, value) in enumerate(zip(bars, df_pib_hab['PIB_par_habitant'])):
     height = bar.get_height()
     ax.text(bar.get_x() + bar.get_width()/2., height + 1000,
             f'${value:,.0f}',  # Format avec séparateur de mill
+![Test Image](P1.png)
