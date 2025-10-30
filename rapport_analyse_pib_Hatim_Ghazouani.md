@@ -611,4 +611,5 @@ for i, (bar, value) in enumerate(zip(bars, df_pib_hab['PIB_par_habitant'])):
     height = bar.get_height()
     ax.text(bar.get_x() + bar.get_width()/2., height + 1000,
             f'${value:,.0f}',  # Format avec séparateur de mill
-![Test Image](P1.png)
+
+<img width="1389" height="989" alt="P1" src="https://github.com/user-attachments/assets/df662ea8-6c2d-4f7c-817b-e45ac4e09a80" />
