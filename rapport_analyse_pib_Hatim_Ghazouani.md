@@ -1,8 +1,8 @@
 # Rapport d'Analyse Approfondie du PIB
+Hatim Ghazouani
 ## Comparaison Internationale et Tendances Économiques
 
 ---
-
 ## 1. Introduction et Contexte
 
 ### 1.1 Objectif de l'analyse
