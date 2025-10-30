@@ -1,7 +1,8 @@
 # Rapport d'Analyse Approfondie du PIB
 Hatim Ghazouani
 
-![Hatim Ghazouani](Hatim_Ghazouani.png)
+![Uploading IMG-20240619-WA0025.jpg…]()
+
 
 ## Comparaison Internationale et Tendances Économiques
 
